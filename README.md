@@ -171,4 +171,4 @@ print(response)
 
 
 ### RESULT:
-Thus the completed successfully  Multidocument Retrieval Agent Using LlamaIndex
+The system successfully retrieves and synthesizes relevant information from multiple documents, providing concise and relevant answers to the user's query. Performance is evaluated based on the accuracy, relevance, and coherence of the responses.
